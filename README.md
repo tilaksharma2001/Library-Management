@@ -5,7 +5,7 @@
  
 
 ### Project Members:
-<ul><li><a href="https://github.com/tilaksharma2001">Tilak raj sharm</a></li>
+<ul><li><a href="https://github.com/tilaksharma2001">Tilak raj sharma</a></li>
 
 ### Introduction:
 Our system is based on library management and book-keeping system. This project “Library Management System” contains data relevant to the books present in the library, which can be lent to the customers and details maintained by the staff. Along with the management of the system, we are also maintaining the records of issue statuses and publishers of the books.
